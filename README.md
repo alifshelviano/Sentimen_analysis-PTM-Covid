@@ -3,10 +3,12 @@
 
 Stages
 
-- **Data Collection** , Scraping comments on one of youtube video regarding face to offline school in the middle of pandemic using selenium.
 
-- **Data Labelling**, first label automatically using python as positive sentiment as default then changing data that has negative sentiment using notepad.
+- **Data Collection** , Scraping comments on one of youtube videos regarding face to offline school in the middle of pandemic using selenium.
 
-- **Data Preprocessing**, Cleaning data csv comments such as remove emoji,repeated words using regex then Tokenization that is separating sentences into list words, then removing stop words, stemming changing words into root forms and case folding that is changin sentences into lower case.
+- **Data Labeling**, first label automatically using python as positive sentiment as default then changing data that has negative sentiment using notepad.
 
-- **Data Analysis and Predicive analysis**, using tf idf to extaxt words, visualization ratio, splitting data, and using naive bayes models to predict.
+- **Data Preprocessing**, Cleaning data csv comments such as removing emoji,repeated words using regex then Tokenization that is separating sentences into list words, then removing stop words, stemming changing words into root forms and case folding that is changing sentences into lowercase.
+
+- **Data Analysis and Predictive analysis**, using tf idf to extract words, visualization ratio, splitting data, and using naive bayes models to predict.
+
